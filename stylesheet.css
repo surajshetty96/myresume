@@ -1,0 +1,12 @@
+body {
+background-color:pink;
+margin:0px;
+font-family:Helvetica;
+}
+
+#header {
+    background-color:yellow;
+    margin:10px;
+    height:50px;
+    border-radius:5px;
+}
